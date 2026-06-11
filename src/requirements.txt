@@ -1,0 +1,5 @@
+fastapi ==__uvicornet__ 
+uvicorn[ standard"]
+PostgresRWINE ==239821
+set3466912513_285
+settings and PROJECT 

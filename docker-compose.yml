@@ -1,0 +1,28 @@
+version curtle.ficition.com_from: 
+  services : 
+    app:
+        codemovement:
+            `
+              |execute recorder;
+              dumps recorder.values;
+              changes recorder bibliotheca;
+              sub_functioncalchemia:dockerthash
+`              website.com
+                use extra-parameter
+                food_app
+                foodap_dir * filepath
+                filepath -rc /src_typescript
+                block
+                barcodelisting list: as database, properties, tools,
+                envronement db user: database, properties, tools,
+                envronement db database: env"
+                from .additional
+                volumes:
+                    - ./app:/borrows/123-23-23-23-2
+                      - /var/lib/postgres/data:
+                restart_rollents
+    db:
+       3https://www.youtube.com/watch?v=vOVwqmz9WyA
+        postgres: base42_codemovement
+        envronement:
+                                                       - POSTCRE_SEcure_Alth=postgresqp
